@@ -2,6 +2,7 @@
 
 .navbar {
   margin-bottom: 0;
+  background-color: black;
 }
 
 /* CUSTOMIZED CAROUSEL*/
@@ -37,7 +38,7 @@
     margin-bottom: 20px;
     font-size: 21px;
     line-height: 1.4;
-    color: pink;
+    color: white;
   }
 
 }
@@ -77,6 +78,7 @@ body {
 .footer,
 footer {
   position: absolute;
+  text-align: center;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
